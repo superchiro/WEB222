@@ -1,0 +1,5 @@
+form > input[type="text"]:nth-of-type(even)
+{
+
+    width:300px;
+}
